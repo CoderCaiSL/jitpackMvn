@@ -17,7 +17,7 @@ import java.nio.ByteBuffer
  * @author: CaiSongL
  * @date: 2023/6/21 17:13
  */
-class BitmapConstraintLayout : ConstraintLayout {
+open class BitmapConstraintLayout : ConstraintLayout {
     var changeData = false
     var bitmap: Bitmap? = null
 
