@@ -2,7 +2,6 @@ package com.example.jitpackmvn
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.bitmap_layout.BitmapConstraintLayout
 
 /**
  * des:
