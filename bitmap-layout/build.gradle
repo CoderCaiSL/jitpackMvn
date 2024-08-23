@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace 'com.example.bitmap_layout'
-    compileSdk 34
+    compileSdk 33
 
     defaultConfig {
         minSdk 24
